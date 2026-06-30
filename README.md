@@ -1,65 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F00FF&height=250&section=header&text=AMAN%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Aman%20Kumar%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=☕+Java+Developer;💻+Problem+Solver;🚀+Open+Source+Learner;⚡+Always+Building+New+Things"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🚀 Passionate Software Developer
+```java
+public class AmanKumarSingh {
 
-💻 Love building AI, Web & Mobile Applications
+    String role = "Java Developer";
 
-🌱 Currently Learning
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- DevOps
+    String passion = "Problem Solving";
 
-🔥 Always exploring new technologies.
+    String language = "Java";
 
-📫 Reach Me:
-- 📧 yourmail@gmail.com
+    String focus = "DSA + Backend";
 
-⚡ Fun Fact:
-> "First, solve the problem. Then, write the code."
+    String motto = "Code • Learn • Repeat";
+}
+```
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://twitter.com/USERNAME"><img src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
+- ☕ Java Developer
+- 💻 Love solving coding problems
+- 🚀 Learning Backend Development
+- 📚 Exploring Data Structures & Algorithms
+- 🌟 Open Source Enthusiast
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,docker,firebase,vscode,linux,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,javascript,mysql,git,github,vscode,idea&perline=6"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# ⚡ Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -73,11 +85,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
 
 </div>
 
@@ -87,13 +99,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Snake Eating Contributions
 
 <div align="center">
 
@@ -103,49 +115,50 @@
 
 ---
 
-# ⚙️ Coding Activity
-
-```text
-💻 AI Development        ████████████████░░░ 80%
-
-🌐 Web Development       ██████████████░░░░ 70%
-
-📱 App Development       ███████████░░░░░░ 55%
-
-☁️ Cloud Computing       ████████░░░░░░░░░ 40%
-```
-
----
-
-# ✨ Random Dev Quote
+# 💻 Coding Animation
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img width="750" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🎵 Spotify (Optional)
+# ☕ Java Quote
 
-```md
-Add Spotify Now Playing using:
-https://github.com/novatorem/novatorem
-```
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+</div>
 
 ---
 
-# 💖 Support
+# 🎯 Current Focus
 
-If you like my work, give ⭐ to my repositories.
+```text
+☕ Java               ████████████████████ 100%
+
+📚 DSA                ██████████████████░ 95%
+
+⚙ Backend             ███████████████░░░░ 75%
+
+🚀 Open Source         ███████████░░░░░░░ 55%
+```
 
 ---
 
 <div align="center">
 
-### Thanks for visiting ❤️
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:7F00FF&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
